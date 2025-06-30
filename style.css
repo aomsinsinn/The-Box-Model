@@ -1,0 +1,18 @@
+div{
+    width:300px;
+    height:500px;
+    border:1px solid plum;
+    background-color: antiquewhite;
+    padding:40px;
+}
+img{
+    width:250px;
+    height:300px;
+    border: 1px solid purple;
+}
+h2{
+    background-color:lavenderblush;
+    color:pink;
+    border:1px solid gray;
+    text-align: center;
+}
